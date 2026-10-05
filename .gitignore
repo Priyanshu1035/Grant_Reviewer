@@ -1,0 +1,33 @@
+# Environment variables / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+venv/
+
+# Uploaded files
+backend/uploads/
+
+# Node.js
+node_modules/
+
+# Frontend build
+frontend/dist/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local test files
+ABC Community Foundation.pdf
+test_grant.pdf
+test_guiddeline.txt
